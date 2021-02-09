@@ -1,4 +1,7 @@
 //This is the first lesson
+
+console.log("Test main branch");
+
 console.log("hello world");
 console.log("I say \"hi\"");
 console.log('I say "hi"');
