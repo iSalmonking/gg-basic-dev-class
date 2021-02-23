@@ -6,7 +6,7 @@
 // let room3 = 50;
 // let room4 = 55;
 // let room5 = 60;
-// let rooms = [40, 45, 50, 65, 60]
+let rooms = [40, 45, 50, 65, 60]
 // // console.log(room1);
 // // console.log(rooms)
 // // console.log(rooms[0]);
@@ -23,10 +23,10 @@
 // console.log(rooms);
 // console.log(`room size = ${rooms.length}`)
 
-// rooms.push("Student"); // a good way (add at the end)
+rooms.push("Student"); // a good way (add at the end)
 // rooms.unshift("School");
 // rooms.push([200, [500, 500]]);
-// console.log(rooms)
+console.log(rooms)
 
 
 // const schools = [
